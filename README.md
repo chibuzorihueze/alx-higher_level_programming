@@ -1,1 +1,0 @@
-*this is python a high level language*
